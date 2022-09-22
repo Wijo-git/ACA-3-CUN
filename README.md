@@ -18,5 +18,5 @@ El sitio esta desplegado con ayuda de **GitHub Pages**
 ## Autores ✒️
 
 
-* **William Rojas Ballesteros** - *Trabajo Inicial* - [Wijo-git](https://github.com/Wijo-git)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **William Rojas Ballesteros** - *Desarrollo* - [Wijo-git](https://github.com/Wijo-git)
+* **Edison Gustavo Charry Loaiza** - *Desarrollo* - [charryedison](https://github.com/charryedison)
