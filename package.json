@@ -1,0 +1,23 @@
+{
+  "name": "aca-3-cun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css sass/custom.css --content index.html -o css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wijo-git/ACA-3-CUN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wijo-git/ACA-3-CUN/issues"
+  },
+  "homepage": "https://github.com/Wijo-git/ACA-3-CUN#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
