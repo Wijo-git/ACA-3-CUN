@@ -7,6 +7,7 @@
     <title>Fashion Shop</title>
 
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/main.css">
 </head>
 <body>
     <main class="container-fliud bg-dark vh-100">
@@ -45,14 +46,6 @@
 
         <!-- CAROUSEL -->
         <section id="carouselId" class="carousel slide" data-bs-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-bs-target="#carouselId" data-bs-slide-to="0" class="active" aria-current="true" aria-label="First slide"></li>
-                <li data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Second slide"></li>
-                <li data-bs-target="#carouselId" data-bs-slide-to="2" aria-label="Third slide"></li>
-                <li data-bs-target="#carouselId" data-bs-slide-to="3" aria-label="four slide"></li>
-                <li data-bs-target="#carouselId" data-bs-slide-to="4" aria-label="five slide"></li>
-                <li data-bs-target="#carouselId" data-bs-slide-to="5" aria-label="six slide"></li>
-            </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
                     <img src="https://wijo-git.github.io/ACA-3-CUN/images/carousel/carousel_1.png" class="w-100 d-block"  alt="First slide">
@@ -83,14 +76,19 @@
             </button>
         </section>
 
-
-        <section class="carousel slide" id="mainSlider" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item Active">
-                    <img src="./images/carousel/carousel_1.jpg" alt="" class="d-block w-100">
+        <!-- SEPARADOR -->
+        <div id="ribbon">
+            <div id="birthday" class="container w-25 pl-5 pr-5 rounded-lg">
+              <div class="row align-items-center">
+                <div class="col-sm col-sm p-3" id="description">
+                  <img src="https://wijo-git.github.io/images/rama_blanca.png" width="120" class="mx-auto d-block" alt="...">
                 </div>
+              </div>
             </div>
-        </section>
+        </div>
+        <div class="container-fluid bg-dark">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae aliquid atque dolorem, inventore, cumque eaque magni esse ratione vitae nemo possimus animi ipsum minus omnis pariatur quis ipsam iste mollitia!</p>
+        </div>
     </main>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
