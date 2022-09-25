@@ -38,7 +38,7 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
     position: relative;
     margin-top: -20px;
     z-index: 10;
-    box-shadow: 0 0 10px rgba(15, 161, 15, 0.678);
+    box-shadow: 0 0 10px rgba(5, 43, 5, 0.678);
 }
 
 
