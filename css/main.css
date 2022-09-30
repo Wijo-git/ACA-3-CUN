@@ -38,13 +38,13 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
     position: relative;
     margin-top: -20px;
     z-index: 10;
-    box-shadow: 0 0 10px rgba(5, 43, 5, 0.678);
+    box-shadow: 0 0 5px rgba(6, 238, 64, 0.568);
 }
 
 
 #birthday img{
     position: relative;
-    margin-top: -40px;
+    margin-top: -30px;
 }
 
 #games{
@@ -65,9 +65,6 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
     transform: scale(1.05);
 }
 
-.text-shadow{
-    text-shadow: 0 3px 3px rgba(0,0,0,0.6);
-}
 #separator-amiibos{
     width: 100%;
     overflow: hidden;
